@@ -1,0 +1,63 @@
+$font-size: ( h1:45px, h2:30px, h3:25px, h4:21px, p:16px);
+$color-text:(white:#ffffff, blue:#0f1f2f, yellow:#eec953);
+$breakpoints: ( phone: 640px, x-tablet: 769px, tablet: 768px, s-desktop: 991px, desktop: 1024px, m-desktop: 1440px, l-desktop:1441px) !default;
+@mixin gradient-btn {
+    background-image: linear-gradient( 8deg, rgb(204, 160, 43) 0%, rgb(238, 201, 83) 100%);
+    background-image: -moz-linear-gradient( 8deg, rgb(204, 160, 43) 0%, rgb(238, 201, 83) 100%);
+    background-image: -webkit-linear-gradient( 8deg, rgb(204, 160, 43) 0%, rgb(238, 201, 83) 100%);
+    background-image: -ms-linear-gradient( 8deg, rgb(204, 160, 43) 0%, rgb(238, 201, 83) 100%);
+}
+
+@mixin min-tablet {
+    @media (min-width: map-get($breakpoints, x-tablet)) {
+        @content;
+    }
+}
+
+@mixin max-phone {
+    @media (max-width: map-get($breakpoints, mobile)) {
+        @content;
+    }
+}
+
+@mixin max-tablet {
+    @media (max-width: map-get($breakpoints, tablet)) {
+        @content;
+    }
+}
+
+@mixin max-s-desktop {
+    @media (max-width: map-get($breakpoints, s-desktop)) {
+        @content;
+    }
+}
+
+@mixin max-desktop {
+    @media (max-width: map-get($breakpoints, desktop)) {
+        @content;
+    }
+}
+
+@mixin max-m-desktop {
+    @media (max-width: map-get($breakpoints, m-desktop)) {
+        @content;
+    }
+}
+
+@mixin min-l-desktop {
+    @media (min-width: map-get($breakpoints, l-desktop)) {
+        @content;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+.devis_express {
+    iframe {
+        @include max-s-desktop {
+            height: 585px!important;
+        }
+    }
+}
