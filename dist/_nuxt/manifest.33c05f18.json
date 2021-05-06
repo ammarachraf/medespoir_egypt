@@ -1,7 +1,7 @@
 {
   "name": "medespoir-egypte",
   "short_name": "medespoir-egypte",
-  "description": "## Build Setup",
+  "description": "NUXTJS",
   "icons": [],
   "start_url": "/?standalone=true",
   "display": "standalone",
