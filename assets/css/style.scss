@@ -825,7 +825,7 @@
                 .bg-blue {
                     @include min-tablet {
                         background: url(@/assets/img/bg-sdfisodifj.jpg)no-repeat right top #113151;
-                        background-size: contain
+                        //background-size: contain
                     }
                     @include max-tablet {
                         background: #113151;
