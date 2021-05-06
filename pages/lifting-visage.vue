@@ -6,7 +6,7 @@
                     <div class="col-lg-5 col-md-5 col-12 display-flex">
                         <div class="width-60 text-center">
                             <h1>Lifting du visage en Egypte</h1>
-                            <div class="btn_devis mt-4"><NuxtLink to="/devis">Devis express</NuxtLink></div>
+                            <div class="btn_devis mt-4"><NuxtLink to="#">Devis express</NuxtLink></div>
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
             <div class="container">
                 <h2 class="yellow mb-4">Comment se déroule le lifting du visage ?</h2>
                 <p>Le premier examen préopératoire a pour but d'évaluer l’état de la peau du visage. Le patient est informé des résultats possibles, des cicatrices, des risques potentiels et des complications.<br>Comme toute intervention chirurgicale, le lifting visage présente un taux de risque et de complication comparable à celui de toute autre opération esthétique. Des études scientifiques, montrent comment les précautions et les mesures postopératoires réduisent considérablement les taux de complications.<br>Les incisions sont effectuées dans les cheveux et donc bien cachées. La seule cicatrice exposée est celle antéro-auriculaire (placée en avant de l'oreille). Elle est à l'intérieur des rides naturelles et physiologiques devant le pavillon de l'oreille et est donc bien camouflée.<br>Après environ six mois postopératoires, les cicatrices antéro-auriculaires deviennent presque invisibles. Dans la période postopératoire immédiate, les cicatrices peuvent être recouvertes d'un voile de maquillage (camouflage). Les cicatrices hypertrophiques et chéloïdes sont extrêmement rares.<br>La durée de l’opération varie entre 1 et 3 heures et l’hospitalisation est généralement de 2 heures.</p>
-                <div class="btn_devis mt-4 text-center"><NuxtLink to="/devis">Devis express</NuxtLink></div>
+                <div class="btn_devis mt-4 text-center"><NuxtLink to="#">Devis express</NuxtLink></div>
             </div>
         </section>
         <section class="container">

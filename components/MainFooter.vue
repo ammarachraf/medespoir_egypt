@@ -35,7 +35,7 @@
                                 <h3>Quick Links</h3>
                                 <ul class="link-footer">
                                     <li><NuxtLink to="/">Accueil</NuxtLink></li>
-                                    <li><NuxtLink to="/devis">Devis Rapide</NuxtLink></li>
+                                    <li><NuxtLink to="#">Devis Rapide</NuxtLink></li>
                                     <li><NuxtLink to="#">Notre Clinique</NuxtLink></li>
                                     <li><NuxtLink to="#">Séjour</NuxtLink></li>
                                     <li><NuxtLink to="#">Interventions</NuxtLink></li>

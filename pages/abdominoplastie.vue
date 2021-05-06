@@ -6,7 +6,7 @@
                     <div class="col-lg-5 col-md-5 col-12 display-flex">
                         <div class="width-60 text-center">
                             <h1>Abdominoplastie Egypte pour un ventre plat</h1>
-                            <div class="btn_devis mt-4"><NuxtLink to="/devis">Devis express</NuxtLink></div>
+                            <div class="btn_devis mt-4"><NuxtLink to="#">Devis express</NuxtLink></div>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                     <li>Éviter le sauna et les bains de soleil jusqu'à 6 mois après la chirurgie</li>
                     <li>La reprise du travail est possible après 2 semaines</li>
                 </ul>
-                <div class="btn_devis mt-4 text-center"><NuxtLink to="/devis">Devis express</NuxtLink></div>
+                <div class="btn_devis mt-4 text-center"><NuxtLink to="#">Devis express</NuxtLink></div>
             </div>
         </section>
         <section class="container">

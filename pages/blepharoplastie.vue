@@ -6,7 +6,7 @@
                     <div class="col-lg-5 col-md-5 col-12 display-flex">
                         <div class="width-60 text-center">
                             <h1>Blépharoplastie Egypte</h1>
-                            <div class="btn_devis mt-4"><NuxtLink to="/devis">Devis express</NuxtLink></div>
+                            <div class="btn_devis mt-4"><NuxtLink to="#">Devis express</NuxtLink></div>
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                 <p>Avec une opération des paupières supérieures, il est possible d'éliminer l'excès de peau et les sacs de graisse qui rendent le regard constamment fatigué et gonflé. Tout d'abord, il est essentiel que l'élimination de l'excès de tissu ne soit pas particulièrement extrême car, dans ce cas, le résultat final pourrait être artificiel et désagréable. En ce qui concerne la durée de l'opération, 15 à 20 minutes par œil suffisent.<br>Pour la correction des paupières supérieures, une incision est faite exactement dans le pli de la paupière pour éviter que des cicatrices ne soient visibles à l'avenir. Le chirurgien enlève alors une partie du tissu cutané, puis il ferme l’incision avec une suture et enfin il applique des pansements.</p>
                 <h3 class="color-white">Blépharoplastie inférieure</h3>
                 <p>La blépharoplastie inférieure est intervention esthétique, pratiquée sur les paupières inférieures, qui consiste à enlever ou repositionner les poches de graisse situées dans la région de la paupière inférieure. Pour se faire, le chirurgien pratique une incision dans la bordure sous-ciliaire à travers laquelle les trois poches graisseuses localisées dans cette zone et l'excès de peau et de muscles ont enlevés et remodelés.<br>Cette technique est plus complexe que la blépharoplastie supérieure et elle peut également être réalisée sous anesthésie locale ou sous anesthésie générale.</p>
-                <div class="btn_devis mt-4 text-center"><NuxtLink to="/devis">Devis express</NuxtLink></div>
+                <div class="btn_devis mt-4 text-center"><NuxtLink to="#">Devis express</NuxtLink></div>
             </div>
         </section>
         <section class="container">
