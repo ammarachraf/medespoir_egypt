@@ -83,7 +83,7 @@
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 6}"><a class="js-pointer-large" href="#">Traitement du surpoids</a><span  @click="DropDown = 6" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="#">Ballon gastrique</NuxtLink></li>
+                                                <li><NuxtLink to="/ballon-gastrique">Ballon gastrique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Bypass gastrique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Sleeve gastrique</NuxtLink></li>
                                             </ul>
@@ -186,7 +186,7 @@
                                         </li>
                                         <li><NuxtLink to="#">Traitement du surpoids</NuxtLink>
                                             <ul class="sub-menu-2">
-                                                <li><NuxtLink to="#">Ballon gastrique</NuxtLink></li>
+                                                <li><NuxtLink to="/ballon-gastrique">Ballon gastrique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Bypass gastrique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Sleeve gastrique</NuxtLink></li>
                                             </ul>
