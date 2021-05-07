@@ -88,7 +88,7 @@
     export default({
     data() {
       return {
-        title: 'Augmentation des fesses'
+        title: 'Ballon gastrique Egypte'
       }
     },
     head() {
@@ -97,7 +97,7 @@
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: 'Medespoir Egypte Augmentation des fesses' }
+            { hid: 'description', name: 'description', content: 'Medespoir Egypte Ballon gastrique Egypte' }
         ],
         htmlAttrs: {
             lang: 'fr'
