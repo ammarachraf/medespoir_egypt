@@ -9,6 +9,9 @@
                         font-size: map-get($font-size, h1);
                     }
                 }
+                h3 {
+                    font-size: map-get($font-size, h3);
+                }
                 @include max-tablet {
                     h1 {
                         font-size: 28px;
