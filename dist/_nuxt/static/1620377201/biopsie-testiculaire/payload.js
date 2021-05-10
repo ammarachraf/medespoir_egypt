@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/biopsie-testiculaire", {data:[{}],fetch:{},mutations:void 0});

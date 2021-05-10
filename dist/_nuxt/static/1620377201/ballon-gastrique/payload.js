@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ballon-gastrique", {data:[{}],fetch:{},mutations:void 0});

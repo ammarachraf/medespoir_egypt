@@ -31,16 +31,16 @@
                                 <nav>
                                     <ul class="main_nav_mobile">
                                         <li><NuxtLink to="/">Accueil</NuxtLink></li>
-                                        <li><NuxtLink to="/">Les cliniques en Egypte</NuxtLink></li>
+                                        <li><NuxtLink to="/cliniques">Les cliniques en Egypte</NuxtLink></li>
                                         <li><NuxtLink to="/">Les chirurgiens en Egypte</NuxtLink></li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 1}"><a class="js-pointer-large" href="#">Dentisterie</a><span  @click="DropDown = 1" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
                                                 <li><NuxtLink to="#">Implant dentaire</NuxtLink></li>
-                                                <li><NuxtLink to="#">Facette dentaire</NuxtLink></li>
-                                                <li><NuxtLink to="#">Chirurgie des gencives</NuxtLink></li>
+                                                <li><NuxtLink to="/facette-dentaire">Facette dentaire</NuxtLink></li>
+                                                <li><NuxtLink to="/chirurgie-gencives">Chirurgie des gencives</NuxtLink></li>
                                                 <li><NuxtLink to="#">Orthodontie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Hollywood Smile</NuxtLink></li>
-                                                <li><NuxtLink to="#">Blanchiment dents</NuxtLink></li>
+                                                <li><NuxtLink to="/blanchiment-dents">Blanchiment dents</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 2}"><a class="js-pointer-large" href="#">Traitement de l’infertilité</a><span  @click="DropDown = 2" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
@@ -64,7 +64,7 @@
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 4}"><a class="js-pointer-large" href="#">Esthétique du corps</a><span  @click="DropDown = 4" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="#">Bodylift</NuxtLink></li>
+                                                <li><NuxtLink to="/bodylift">Bodylift</NuxtLink></li>
                                                 <li><NuxtLink to="#">Liposuccion</NuxtLink></li>
                                                 <li><NuxtLink to="#">Liposuccion Vaser</NuxtLink></li>
                                                 <li><NuxtLink to="/abdominoplastie">Abdominoplastie</NuxtLink></li>
@@ -84,7 +84,7 @@
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 6}"><a class="js-pointer-large" href="#">Traitement du surpoids</a><span  @click="DropDown = 6" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
                                                 <li><NuxtLink to="/ballon-gastrique">Ballon gastrique</NuxtLink></li>
-                                                <li><NuxtLink to="#">Bypass gastrique</NuxtLink></li>
+                                                <li><NuxtLink to="/bypass-gastrique">Bypass gastrique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Sleeve gastrique</NuxtLink></li>
                                             </ul>
                                         </li>
@@ -100,9 +100,8 @@
                                                 <li><NuxtLink to="#">Pénoplastie</NuxtLink></li>
                                             </ul>
                                         </li>
-                                        <li><NuxtLink to="#">Mentions légales</NuxtLink></li>
                                         <li><NuxtLink to="#">Pourquoi choisir l’Egypte ?</NuxtLink></li>
-                                        <li><NuxtLink to="#">Détails sur votre séjour</NuxtLink></li>
+                                        <li><NuxtLink to="/sejour">Détails sur votre séjour</NuxtLink></li>
                                         <li id="item_devis"><NuxtLink to="#">Devis gratuit</NuxtLink></li>
                                     </ul>
                                 </nav>
@@ -126,17 +125,18 @@
                     <nav class="navbar">
                             <ul class="main_nav">
                                 <li><NuxtLink to="/">Accueil</NuxtLink></li>
-                                <li><NuxtLink to="#">A propos</NuxtLink></li>
+                                <li><NuxtLink to="/cliniques">Les cliniques</NuxtLink></li>
+                                <li><NuxtLink to="/">Les chirurgiens</NuxtLink></li>
                                 <li class="main-has-child"><a class="js-pointer-large" href="#">Intervention</a>
                                     <ul class="sub-menu-1">
                                         <li><NuxtLink to="#">Dentisterie</NuxtLink>
                                             <ul class="sub-menu-2">
                                                 <li><NuxtLink to="#">Implant dentaire</NuxtLink></li>
-                                                <li><NuxtLink to="#">Facette dentaire</NuxtLink></li>
-                                                <li><NuxtLink to="#">Chirurgie des gencives</NuxtLink></li>
+                                                <li><NuxtLink to="/facette-dentaire">Facette dentaire</NuxtLink></li>
+                                                <li><NuxtLink to="/chirurgie-gencives">Chirurgie des gencives</NuxtLink></li>
                                                 <li><NuxtLink to="#">Orthodontie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Hollywood Smile</NuxtLink></li>
-                                                <li><NuxtLink to="#">Blanchiment dents</NuxtLink></li>
+                                                <li><NuxtLink to="/blanchiment-dents">Blanchiment dents</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li><NuxtLink to="#">Traitement de l’infertilité</NuxtLink>
@@ -160,7 +160,7 @@
                                         </li>
                                         <li><NuxtLink to="#">Esthétique du corps</NuxtLink>
                                             <ul class="sub-menu-2">
-                                                <li><NuxtLink to="#">Bodylift</NuxtLink></li>
+                                                <li><NuxtLink to="/bodylift">Bodylift</NuxtLink></li>
                                                 <li><NuxtLink to="#">Liposuccion</NuxtLink></li>
                                                 <li><NuxtLink to="#">Liposuccion Vaser</NuxtLink></li>
                                                 <li><NuxtLink to="/abdominoplastie">Abdominoplastie</NuxtLink></li>
@@ -180,7 +180,7 @@
                                         <li><NuxtLink to="#">Traitement du surpoids</NuxtLink>
                                             <ul class="sub-menu-2">
                                                 <li><NuxtLink to="/ballon-gastrique">Ballon gastrique</NuxtLink></li>
-                                                <li><NuxtLink to="#">Bypass gastrique</NuxtLink></li>
+                                                <li><NuxtLink to="/bypass-gastrique">Bypass gastrique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Sleeve gastrique</NuxtLink></li>
                                             </ul>
                                         </li>
@@ -198,9 +198,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><NuxtLink to="#">Mentions légales</NuxtLink></li>
                                 <li><NuxtLink to="#">Pourquoi choisir l’Egypte ?</NuxtLink></li>
-                                <li><NuxtLink to="#">Détails sur votre séjour</NuxtLink></li>
+                                <li><NuxtLink to="/sejour">Votre séjour</NuxtLink></li>
                                 <li id="item_devis"><NuxtLink to="#">Devis gratuit</NuxtLink></li>
                             </ul>
                     </nav>

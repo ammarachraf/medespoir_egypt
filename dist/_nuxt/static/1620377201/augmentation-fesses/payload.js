@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/augmentation-fesses", {data:[{}],fetch:{},mutations:void 0});
