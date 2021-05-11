@@ -35,17 +35,17 @@
                                         <li><NuxtLink to="/">Les chirurgiens en Egypte</NuxtLink></li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 1}"><a class="js-pointer-large" href="#">Dentisterie</a><span  @click="DropDown = 1" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="#">Implant dentaire</NuxtLink></li>
+                                                <li><NuxtLink to="/implant-dentaire">Implant dentaire</NuxtLink></li>
                                                 <li><NuxtLink to="/facette-dentaire">Facette dentaire</NuxtLink></li>
                                                 <li><NuxtLink to="/chirurgie-gencives">Chirurgie des gencives</NuxtLink></li>
                                                 <li><NuxtLink to="#">Orthodontie</NuxtLink></li>
-                                                <li><NuxtLink to="#">Hollywood Smile</NuxtLink></li>
+                                                <li><NuxtLink to="/hollywood-smile">Hollywood Smile</NuxtLink></li>
                                                 <li><NuxtLink to="/blanchiment-dents">Blanchiment dents</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 2}"><a class="js-pointer-large" href="#">Traitement de l’infertilité</a><span  @click="DropDown = 2" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="#">Fécondation in-vitro</NuxtLink></li>
+                                                <li><NuxtLink to="/fecondation-in-vitro">Fécondation in-vitro</NuxtLink></li>
                                                 <li><NuxtLink to="#">Insémination intra-utérine (IUU)</NuxtLink></li>
                                                 <li><NuxtLink to="/biopsie-testiculaire">Biopsie testiculaire</NuxtLink></li>
                                             </ul>
@@ -53,12 +53,12 @@
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 3}"><a class="js-pointer-large" href="#">Esthétique du visage</a><span  @click="DropDown = 3" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
                                                 <li><NuxtLink to="/lifting-visage">Lifting Visage</NuxtLink></li>
-                                                <li><NuxtLink to="#">Fils tenseurs</NuxtLink></li>
+                                                <li><NuxtLink to="/fils-tenseurs">Fils tenseurs</NuxtLink></li>
                                                 <li><NuxtLink to="#">Lifting endoscopique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Rhinoplastie</NuxtLink></li>
                                                 <li><NuxtLink to="/blepharoplastie">Blépharoplastie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Otoplastie</NuxtLink></li>
-                                                <li><NuxtLink to="#">Génioplastie</NuxtLink></li>
+                                                <li><NuxtLink to="/genioplastie">Génioplastie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Lipofilling visage et cou</NuxtLink></li>
                                             </ul>
                                         </li>
@@ -90,13 +90,13 @@
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 7}"><a class="js-pointer-large" href="#">Transplantation capillaire</a><span  @click="DropDown = 7" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="#">Greffe de cheveux</NuxtLink></li>
-                                                <li><NuxtLink to="#">Greffe de barbe</NuxtLink></li>
+                                                <li><NuxtLink to="/greffe-cheveux">Greffe de cheveux</NuxtLink></li>
+                                                <li><NuxtLink to="/greffe-barbe">Greffe de barbe</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 8}"><a class="js-pointer-large" href="#">Chirurgie Intime </a><span  @click="DropDown = 8" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="#">Hyménoplastie</NuxtLink></li>
+                                                <li><NuxtLink to="/hymenoplastie">Hyménoplastie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Pénoplastie</NuxtLink></li>
                                             </ul>
                                         </li>
@@ -131,17 +131,17 @@
                                     <ul class="sub-menu-1">
                                         <li><NuxtLink to="#">Dentisterie</NuxtLink>
                                             <ul class="sub-menu-2">
-                                                <li><NuxtLink to="#">Implant dentaire</NuxtLink></li>
+                                                <li><NuxtLink to="/implant-dentaire">Implant dentaire</NuxtLink></li>
                                                 <li><NuxtLink to="/facette-dentaire">Facette dentaire</NuxtLink></li>
                                                 <li><NuxtLink to="/chirurgie-gencives">Chirurgie des gencives</NuxtLink></li>
                                                 <li><NuxtLink to="#">Orthodontie</NuxtLink></li>
-                                                <li><NuxtLink to="#">Hollywood Smile</NuxtLink></li>
+                                                <li><NuxtLink to="/hollywood-smile">Hollywood Smile</NuxtLink></li>
                                                 <li><NuxtLink to="/blanchiment-dents">Blanchiment dents</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li><NuxtLink to="#">Traitement de l’infertilité</NuxtLink>
                                             <ul class="sub-menu-2">
-                                                <li><NuxtLink to="#">Fécondation in-vitro</NuxtLink></li>
+                                                <li><NuxtLink to="/fecondation-in-vitro">Fécondation in-vitro</NuxtLink></li>
                                                 <li><NuxtLink to="#">Insémination intra-utérine (IUU)</NuxtLink></li>
                                                 <li><NuxtLink to="/biopsie-testiculaire">Biopsie testiculaire</NuxtLink></li>
                                             </ul>
@@ -149,12 +149,12 @@
                                         <li><NuxtLink to="#">Esthétique du visage</NuxtLink>
                                             <ul class="sub-menu-2">
                                                 <li><NuxtLink to="/lifting-visage">Lifting Visage</NuxtLink></li>
-                                                <li><NuxtLink to="#">Fils tenseurs</NuxtLink></li>
+                                                <li><NuxtLink to="/fils-tenseurs">Fils tenseurs</NuxtLink></li>
                                                 <li><NuxtLink to="#">Lifting endoscopique</NuxtLink></li>
                                                 <li><NuxtLink to="#">Rhinoplastie</NuxtLink></li>
                                                 <li><NuxtLink to="/blepharoplastie">Blépharoplastie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Otoplastie</NuxtLink></li>
-                                                <li><NuxtLink to="#">Génioplastie</NuxtLink></li>
+                                                <li><NuxtLink to="/genioplastie">Génioplastie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Lipofilling visage et cou</NuxtLink></li>
                                             </ul>
                                         </li>
@@ -186,13 +186,13 @@
                                         </li>
                                         <li><NuxtLink to="#">Transplantation capillaire</NuxtLink>
                                             <ul class="sub-menu-2">
-                                                <li><NuxtLink to="#">Greffe de cheveux</NuxtLink></li>
-                                                <li><NuxtLink to="#">Greffe de barbe</NuxtLink></li>
+                                                <li><NuxtLink to="/greffe-cheveux">Greffe de cheveux</NuxtLink></li>
+                                                <li><NuxtLink to="/greffe-barbe">Greffe de barbe</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li><NuxtLink to="#">Chirurgie Intime</NuxtLink>
                                             <ul class="sub-menu-2">
-                                                <li><NuxtLink to="#">Hyménoplastie</NuxtLink></li>
+                                                <li><NuxtLink to="/hymenoplastie">Hyménoplastie</NuxtLink></li>
                                                 <li><NuxtLink to="#">Pénoplastie</NuxtLink></li>
                                             </ul>
                                         </li>
