@@ -14,7 +14,7 @@
         </div>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img1-fils-tenseur.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img1-greffe-barbe.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12 mt-5">
                     <p class="color-blue">La barbe fait partie des aspects qui donne le plus de virilité chez l’homme. Elle peut changer toute une apparence selon le style qu’elle possède. C’est un trait qui démarque la gente masculine et représente une source d’attraction du sexe opposé, car en effet, elle donne un aspect de force et de dominance.<br>Dans la société Égyptienne, la barbe est un sujet assez sensible depuis des années. En effet, elle ne touche pas simplement l’aspect physique et l’apparence d’une personne, mais aussi, elle est étroitement liée aux aspect culturel et religieux du pays.<br>La barbe représente la virilité, la maturité, la fertilité, la dominance, et chez certaines personnes les appartenances religieuses. Il est donc bizarre, voir un signe de faiblesse, si un homme ne possède pas une barbe. Cela peut juste être des préjudices de la société, mais cela n’empêche que ça impacte la vie quotidienne de milliers, si ce n’est des millions, de personnes.<br>Cependant, le cas des hommes qui sont imberbes ou qui ont des barbes clairsemées, ou encore des barbes inhomogènes et inégale, dépend presque entièrement de leur composition physiologique. On parle dans ce cas de génétique ou dans certaines situations, lié à des problèmes de santé ou encore à des accidents ou cicatrices.<br>À ce niveau-là, la solution existe, car il s’agit d’une question d’intervention esthétique. Appelée aussi « greffe de barbe ».</p>
                 </div>
@@ -32,7 +32,7 @@
                     <h2 class="text-left yellow mt-5">C’est quoi la greffe de barbe en Egypte ?</h2>
                     <p class="text-left color-blue">La greffe de barbe en Egypte est une procédure esthétique qui consiste à implanter des cheveux au niveau de la barbe. Le concept est simple et se rapproche beaucoup de celui de la greffe de cheveux. Il suffit d’avoir une zone donneuse, d’où les follicules de cheveux peuvent être extraite. Et ensuite identifier les zones receveuses, où ces follicules de cheveux vont être insérés.<br>Quand on dit barbe, ce terme représente les cheveux qui poussent sur la partie inférieure du visage, allant aussi sur les jours, les extrémités de la mâchoire jusqu’aux cheveux. La greffe de barbe est donc faite pour donner une apparence de plénitude et de densité. Elle est pratiquée beaucoup chez les jeunes pour démarquer leur maturité.</p>
                 </div>
-                <div class="col-md-5 col-12"><img src="@/assets/img/img2-fils-tenseur.jpg" alt="Medespoir egypte"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img2-greffe-barbe.jpg" alt="Medespoir egypte"></div>
             </div>
         </section>
         <section class="bg-blue pt-5 pb-5">
@@ -44,7 +44,7 @@
         </section>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img3-fils-tenseur.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img3-greffe-barbe.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12">
                     <h2 class="yellow mt-5">À quoi s’attendre après une greffe de barbe en Egypte ?</h2>
                     <p class="">Après l’opération, les effets postopératoires ressemblent à celle de la greffe des cheveux. Il faut s’attendre à quelques apparitions d’œdème pendant les premiers jours. Celui-ci ne dure pas longtemps, car il va disparaître au bout d’une semaine. Les quelques mois qui suivent, environ deux à trois mois, la zone aura une couleur temporairement rosée.<br>Le rasage de la barbe est déconseillé voir interdit durant des deux premières semaines qui suivent l’opération.</p>

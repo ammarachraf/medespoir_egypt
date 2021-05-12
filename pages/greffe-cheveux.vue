@@ -14,7 +14,7 @@
         </div>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img1-fils-tenseur.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img1-greffe-chev.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12 mt-5">
                     <p class="color-blue">La greffe de cheveux en Egypte permet de traiter la calvitie et d’avoir une chevelure dense. L'une des règles essentielles pour trouver une solution durable est d'analyser en profondeur votre perte de cheveux.<br>Un diagnostic superficiel tel que les seuls examens capillaires, une approche simpliste avec des traitements cosmétiques et des massages, ou une greffe de cheveux réalisée sans une véritable base clinique de santé ne conduiront jamais à des résultats complets et durables.<br>Réservez votre consultation avec Aram Clinic au Caire et découvrez comment obtenir une stabilité maximale et des résultats hautement esthétiques pour votre greffe de cheveux.</p>
                     <h2 class="yellow">Quand faire une greffe de cheveux ?</h2>
@@ -34,7 +34,7 @@
                     <h2 class="text-left yellow mt-5">Où faire sa greffe de cheveux ?</h2>
                     <p class="text-left color-blue">Avec Aram Clinic Egypte, chaque patient est suivi de manière unique et extrêmement personnalisée, nous parlons de manière transparente, en ne fournissant que des attentes correctes, car nous savons très bien que l'approche proposée est la plus sérieuse et la plus efficace sur la scène médicale internationale.<br>Nous collaborons avec les meilleures cliniques spécialisées en greffe capillaire pour vous garantir un résultat naturel et les bénéfices significatifs ne sont pas dus à la capacité d'un seul médecin expert ou à une méthode spécifique, mais sont obtenus grâce au potentiel du protocole non-chirurgical multidisciplinaire avancé et aux technologies les plus avancées du secteur.</p>
                 </div>
-                <div class="col-md-5 col-12"><img src="@/assets/img/img2-fils-tenseur.jpg" alt="Medespoir egypte"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img2-greffe-chev.jpg" alt="Medespoir egypte"></div>
             </div>
         </section>
         <section class="bg-blue pt-5 pb-5">
@@ -56,7 +56,7 @@
         </section>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img3-fils-tenseur.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img3-greffe-chev.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12">
                     <h2 class="yellow mt-5">Quelles sont les suites de la greffe de cheveux ?</h2>
                     <p class="">Après l'opération, les zones donneuses d'où ont été extraits les bulbes sont recouvertes de bandages. Le lendemain, les patients reçoivent toutes les informations nécessaires sur les soins postopératoires et subissent un pansement.<br>Même après avoir subi une greffe de cheveux, n'hésitez pas à poser toutes les questions que vous pourriez avoir sur votre rétablissement post-opératoire.</p>
