@@ -14,7 +14,7 @@
         </div>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img7-obesite.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img1-esthetique.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12">
                     <p class="color-blue mt-5">Si vous envisagez la chirurgie esthétique, il est essentiel que vous évaluiez les compétences et l'expérience du chirurgien. La plupart des interventions esthétiques permettent d'obtenir des résultats sûrs lorsqu'elles sont effectuées par un chirurgien plasticien certifié.<br>Chez Medespoir Egypte, nos chirurgiens plasticiens sont certifiés avec une vaste expérience dans la réalisation des chirurgies esthétiques et reconstructives pour les hommes et les femmes du monde entier.</p>
                     <h2 class="yellow">Qui sont les chirurgiens plasticiens?</h2>
@@ -36,7 +36,7 @@
                     <h2 class="yellow">Quelles sont les tâches d'un chirurgien plasticien en Egypte ?</h2>
                     <p>Contrairement à la croyance populaire, les chirurgiens plasticiens font plus que de simples liftings et abdominoplasties. Alors que certains chirurgiens plasticiens se spécialisent dans les chirurgies esthétiques conçues pour améliorer l'apparence extérieure du patient, d'autres se spécialisent dans les techniques de reconstruction qui rétablissent la mobilité des patients après une blessure.</p>
                 </div>
-                <div class="col-md-5 col-12"><img src="@/assets/img/img8-obesite.jpg" alt="Medespoir egypte"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img2-esthetique.jpg" alt="Medespoir egypte"></div>
             </div>
         </section>
         <section class="bg-blue pt-5 pb-5">
@@ -55,7 +55,7 @@
         </section>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img9-obesite.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img3-esthetique.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12">
                     <h2 class="yellow mt-5">Quels sont les meilleurs chirurgiens plasticiens en Egypte ?</h2>
                     <p class="color-blue">Voici quelques-uns des meilleurs chirurgiens plasticiens Egypte :</p>

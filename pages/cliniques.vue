@@ -14,7 +14,7 @@
         </div>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img4-obesite.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img1-clinique.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12 mt-5">
                     <p class="color-blue">Les cliniques en Egypte proposent une chirurgie esthétique hautement spécialisée. En combinant la dernière technologie de précision avec le meilleur savoir-faire chirurgical, les patients bénéficient des meilleurs soins pré et postopératoires tout en profitant d’une expérience de première classe.<br>Nos chirurgiens plasticiens travaillent en étroite collaboration avec les patients pour fournir des solutions sur mesure en chirurgie esthétique et reconstructive. Que l'objectif soit de rajeunir et d'améliorer ou de réparer et de restaurer la fonction et l'apparence, l’objectif est toujours de fournir des soins exemplaires et des solutions exceptionnellement gratifiantes.</p>
                 </div>
@@ -41,7 +41,7 @@
         </section>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img6-obesite.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img2-clinique.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12">
                     <h3 class="color-blue mt-5">Une gamme de soins spécialisés</h3>
                     <p class="mt-3">Nous proposons un large éventail de traitements allant des interventions simples, telles que l'ablation de lésions cutanées mineures, à certaines des procédures de chirurgie esthétique et plastique les plus avancées. Notre expertise comprend une gamme complète de chirurgies faciales, de chirurgies mammaires, du remodelage du corps et de la médecine esthétique. Nos cliniques proposent également des traitements spécialisés de la peau et au laser pour un large éventail d'affections cutanées.</p>

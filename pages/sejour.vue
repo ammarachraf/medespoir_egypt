@@ -14,7 +14,7 @@
         </div>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img4-obesite.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img1-sejour.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12 mt-5">
                     <p class="color-blue">Medespoir, leader en tourisme médical, s’occupe de vous organiser un séjour médical de haute qualité. Un séjour organisé avec méthodologie et ordre pour réussir votre intervention et passer d’agréables moments.</p>
                     <h2 class="yellow">Quelles sont les étapes de votre séjour esthétique en Egypte ?</h2>
@@ -49,7 +49,7 @@
         </section>
         <section class="container">
             <div class="row">
-                <div class="col-md-5 col-12"><img src="@/assets/img/img6-obesite.jpg" alt="Medespoir maroc"></div>
+                <div class="col-md-5 col-12"><img src="@/assets/img/img2-sejour.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12">
                     <h3 class="color-blue mt-5">Assistance et réconfort après votre intervention</h3>
                     <p>A la sortie de la salle d’opération, le personnel de la clinique s’occupe de vous à votre réveil de l’anesthésie. L’agent médical vous aidera en cas de besoin et vous accompagnera à l’hôtel le lendemain de votre opération. Il sera à votre disposition pour toute réclamation, pour vous accompagner pour les visites post opératoires. Le même assistant-chauffeur qui vous a accueilli se chargera de vous déposer à l’aéroport.</p>
