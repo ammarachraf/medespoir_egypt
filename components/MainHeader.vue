@@ -30,80 +30,80 @@
                                 class="sidebar-panel">
                                 <nav>
                                     <ul class="main_nav_mobile">
-                                        <li><NuxtLink to="/">Accueil</NuxtLink></li>
-                                        <li><NuxtLink to="/cliniques">Les cliniques en Egypte</NuxtLink></li>
-                                        <li><NuxtLink to="/">Les chirurgiens en Egypte</NuxtLink></li>
+                                        <li @click="CloseMenu"><NuxtLink to="/">Accueil</NuxtLink></li>
+                                        <li @click="CloseMenu"><NuxtLink to="/cliniques">Les cliniques en Egypte</NuxtLink></li>
+                                        <li @click="CloseMenu"><NuxtLink to="/">Les chirurgiens en Egypte</NuxtLink></li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 1}"><a class="js-pointer-large" href="#">Dentisterie</a><span  @click="DropDown = 1" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/implant-dentaire">Implant dentaire</NuxtLink></li>
-                                                <li><NuxtLink to="/facette-dentaire">Facette dentaire</NuxtLink></li>
-                                                <li><NuxtLink to="/chirurgie-gencives">Chirurgie des gencives</NuxtLink></li>
-                                                <li><NuxtLink to="/orthodontie">Orthodontie</NuxtLink></li>
-                                                <li><NuxtLink to="/hollywood-smile">Hollywood Smile</NuxtLink></li>
-                                                <li><NuxtLink to="/blanchiment-dents">Blanchiment dents</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/implant-dentaire">Implant dentaire</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/facette-dentaire">Facette dentaire</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/chirurgie-gencives">Chirurgie des gencives</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/orthodontie">Orthodontie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/hollywood-smile">Hollywood Smile</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/blanchiment-dents">Blanchiment dents</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 2}"><a class="js-pointer-large" href="#">Traitement de l’infertilité</a><span  @click="DropDown = 2" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/fecondation-in-vitro">Fécondation in-vitro</NuxtLink></li>
-                                                <li><NuxtLink to="/insemination">Insémination intra-utérine (IUU)</NuxtLink></li>
-                                                <li><NuxtLink to="/biopsie-testiculaire">Biopsie testiculaire</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/fecondation-in-vitro">Fécondation in-vitro</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/insemination">Insémination intra-utérine (IUU)</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/biopsie-testiculaire">Biopsie testiculaire</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 3}"><a class="js-pointer-large" href="#">Esthétique du visage</a><span  @click="DropDown = 3" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/lifting-visage">Lifting Visage</NuxtLink></li>
-                                                <li><NuxtLink to="/fils-tenseurs">Fils tenseurs</NuxtLink></li>
-                                                <li><NuxtLink to="/lifting-endoscopique">Lifting endoscopique</NuxtLink></li>
-                                                <li><NuxtLink to="/rhinoplastie">Rhinoplastie</NuxtLink></li>
-                                                <li><NuxtLink to="/blepharoplastie">Blépharoplastie</NuxtLink></li>
-                                                <li><NuxtLink to="/otoplastie">Otoplastie</NuxtLink></li>
-                                                <li><NuxtLink to="/genioplastie">Génioplastie</NuxtLink></li>
-                                                <li><NuxtLink to="/lipofilling-visage">Lipofilling visage et cou</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/lifting-visage">Lifting Visage</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/fils-tenseurs">Fils tenseurs</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/lifting-endoscopique">Lifting endoscopique</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/rhinoplastie">Rhinoplastie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/blepharoplastie">Blépharoplastie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/otoplastie">Otoplastie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/genioplastie">Génioplastie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/lipofilling-visage">Lipofilling visage et cou</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 4}"><a class="js-pointer-large" href="#">Esthétique du corps</a><span  @click="DropDown = 4" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/bodylift">Bodylift</NuxtLink></li>
-                                                <li><NuxtLink to="/liposuccion">Liposuccion</NuxtLink></li>
-                                                <li><NuxtLink to="/liposuccion-vaser">Liposuccion Vaser</NuxtLink></li>
-                                                <li><NuxtLink to="/abdominoplastie">Abdominoplastie</NuxtLink></li>
-                                                <li><NuxtLink to="/augmentation-fesses">Augmentation fesses par prothèses</NuxtLink></li>
-                                                <li><NuxtLink to="/lipofilling-fesses">Lipofilling fesses</NuxtLink></li>
-                                                <li><NuxtLink to="/lifting-bresilien">Lifting brésilien</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/bodylift">Bodylift</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/liposuccion">Liposuccion</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/liposuccion-vaser">Liposuccion Vaser</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/abdominoplastie">Abdominoplastie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/augmentation-fesses">Augmentation fesses par prothèses</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/lipofilling-fesses">Lipofilling fesses</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/lifting-bresilien">Lifting brésilien</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 5}"><a class="js-pointer-large" href="#">Esthétique des seins</a><span  @click="DropDown = 5" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/augmentation-mammaire">Augmentation mammaire par implants</NuxtLink></li>
-                                                <li><NuxtLink to="/lipofilling-mammaire">Lipofilling mammaire</NuxtLink></li>
-                                                <li><NuxtLink to="/reduction-mammaire">Réduction mammaire</NuxtLink></li>
-                                                <li><NuxtLink to="/lifting-mammaire">Lifting mammaire</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/augmentation-mammaire">Augmentation mammaire par implants</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/lipofilling-mammaire">Lipofilling mammaire</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/reduction-mammaire">Réduction mammaire</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/lifting-mammaire">Lifting mammaire</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 6}"><a class="js-pointer-large" href="#">Traitement du surpoids</a><span  @click="DropDown = 6" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/ballon-gastrique">Ballon gastrique</NuxtLink></li>
-                                                <li><NuxtLink to="/bypass-gastrique">Bypass gastrique</NuxtLink></li>
-                                                <li><NuxtLink to="/sleeve-gastrique">Sleeve gastrique</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/ballon-gastrique">Ballon gastrique</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/bypass-gastrique">Bypass gastrique</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/sleeve-gastrique">Sleeve gastrique</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 7}"><a class="js-pointer-large" href="#">Transplantation capillaire</a><span  @click="DropDown = 7" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/greffe-cheveux">Greffe de cheveux</NuxtLink></li>
-                                                <li><NuxtLink to="/greffe-barbe">Greffe de barbe</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/greffe-cheveux">Greffe de cheveux</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/greffe-barbe">Greffe de barbe</NuxtLink></li>
                                             </ul>
                                         </li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 8}"><a class="js-pointer-large" href="#">Chirurgie Intime </a><span  @click="DropDown = 8" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
-                                                <li><NuxtLink to="/hymenoplastie">Hyménoplastie</NuxtLink></li>
-                                                <li><NuxtLink to="/penoplastie">Pénoplastie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/hymenoplastie">Hyménoplastie</NuxtLink></li>
+                                                <li @click="CloseMenu"><NuxtLink to="/penoplastie">Pénoplastie</NuxtLink></li>
                                             </ul>
                                         </li>
-                                        <li><NuxtLink to="/chirurgiens-esthetiques">Chirurgiens esthétiques</NuxtLink></li>
-                                        <li><NuxtLink to="/pourquoi-egypte">Pourquoi choisir l’Egypte ?</NuxtLink></li>
-                                        <li><NuxtLink to="/sejour">Détails sur votre séjour</NuxtLink></li>
-                                        <li id="item_devis"><NuxtLink to="#">Devis gratuit</NuxtLink></li>
+                                        <li @click="CloseMenu"><NuxtLink to="/chirurgiens-esthetiques">Chirurgiens esthétiques</NuxtLink></li>
+                                        <li @click="CloseMenu"><NuxtLink to="/pourquoi-egypte">Pourquoi choisir l’Egypte ?</NuxtLink></li>
+                                        <li @click="CloseMenu"><NuxtLink to="/sejour">Détails sur votre séjour</NuxtLink></li>
+                                        <li @click="CloseMenu" id="item_devis"><NuxtLink to="#">Devis gratuit</NuxtLink></li>
                                     </ul>
                                 </nav>
                                 <slot></slot>
@@ -222,6 +222,10 @@
             }
         },
         methods: {
+            CloseMenu(){
+                this.isOpen = false
+                this.isPanelOpen = false
+            },
             toggle() {
                 this.isOpen = !this.isOpen,
                 this.isPanelOpen = !this.isPanelOpen
