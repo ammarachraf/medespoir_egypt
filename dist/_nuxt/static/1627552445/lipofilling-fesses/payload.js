@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lipofilling-fesses", {data:[{}],fetch:{},mutations:void 0});

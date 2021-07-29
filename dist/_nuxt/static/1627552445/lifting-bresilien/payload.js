@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lifting-bresilien", {data:[{}],fetch:{},mutations:void 0});

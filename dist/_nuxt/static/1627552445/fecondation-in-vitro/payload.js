@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/fecondation-in-vitro", {data:[{}],fetch:{},mutations:void 0});

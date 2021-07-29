@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lifting-mammaire", {data:[{}],fetch:{},mutations:void 0});

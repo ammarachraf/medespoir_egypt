@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/liposuccion-vaser", {data:[{}],fetch:{},mutations:void 0});

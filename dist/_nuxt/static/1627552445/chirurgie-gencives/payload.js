@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chirurgie-gencives", {data:[{}],fetch:{},mutations:void 0});

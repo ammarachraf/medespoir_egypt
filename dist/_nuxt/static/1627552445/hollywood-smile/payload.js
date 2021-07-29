@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hollywood-smile", {data:[{}],fetch:{},mutations:void 0});

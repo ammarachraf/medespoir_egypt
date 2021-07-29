@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/greffe-barbe", {data:[{}],fetch:{},mutations:void 0});

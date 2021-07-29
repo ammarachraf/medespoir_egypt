@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chirurgiens-esthetiques", {data:[{}],fetch:{},mutations:void 0});

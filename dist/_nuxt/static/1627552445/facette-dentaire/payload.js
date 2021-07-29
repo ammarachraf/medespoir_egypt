@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/facette-dentaire", {data:[{}],fetch:{},mutations:void 0});

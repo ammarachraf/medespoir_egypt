@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hymenoplastie", {data:[{}],fetch:{},mutations:void 0});

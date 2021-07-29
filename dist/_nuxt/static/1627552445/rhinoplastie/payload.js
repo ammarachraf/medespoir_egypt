@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rhinoplastie", {data:[{}],fetch:{},mutations:void 0});

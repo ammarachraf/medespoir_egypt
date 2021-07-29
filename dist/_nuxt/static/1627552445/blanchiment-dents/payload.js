@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blanchiment-dents", {data:[{}],fetch:{},mutations:void 0});

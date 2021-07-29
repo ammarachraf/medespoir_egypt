@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pourquoi-egypte", {data:[{}],fetch:{},mutations:void 0});
