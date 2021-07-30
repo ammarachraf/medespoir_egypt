@@ -29,17 +29,16 @@
                             </div>
                             <div class="col-md-4 pt-3">
                                 <h3>A propos</h3>
-                                <p>Le recours à la chirurgie esthétique au Maroc s’est beaucoup développé ces dernières années. On recense 40 milles opérations de chirurgie esthétique au Maroc pratiquées en 2020, c’est trois fois plus que l’année précédente.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates excepturi quasi, autem neque, ducimus tempora commodi alias doloremque harum ab consectetur odit sit magni! Eius inventore facilis saepe cum ipsa!</p>
                             </div>
                             <div class="col-md-4 pt-3">
                                 <h3>Quick Links</h3>
                                 <ul class="link-footer">
                                     <li><NuxtLink to="/">Accueil</NuxtLink></li>
-                                    <li><NuxtLink to="#">Devis Rapide</NuxtLink></li>
-                                    <li><NuxtLink to="#">Notre Clinique</NuxtLink></li>
-                                    <li><NuxtLink to="#">Séjour</NuxtLink></li>
+                                    <li><NuxtLink to="/devis">Devis Rapide</NuxtLink></li>
+                                    <li><NuxtLink to="/cliniques">Notre Clinique</NuxtLink></li>
+                                    <li><NuxtLink to="/sejour">Séjour</NuxtLink></li>
                                     <li><NuxtLink to="#">Interventions</NuxtLink></li>
-                                    <li><NuxtLink to="#">Tarifs</NuxtLink></li>
                                 </ul>
                             </div>
                         </div>

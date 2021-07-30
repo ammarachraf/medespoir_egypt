@@ -32,7 +32,7 @@
                                     <ul class="main_nav_mobile">
                                         <li @click="CloseMenu"><NuxtLink to="/">Accueil</NuxtLink></li>
                                         <li @click="CloseMenu"><NuxtLink to="/cliniques">Les cliniques en Egypte</NuxtLink></li>
-                                        <li @click="CloseMenu"><NuxtLink to="/">Les chirurgiens en Egypte</NuxtLink></li>
+                                        <li @click="CloseMenu"><NuxtLink to="/chirurgiens-esthetiques">Les chirurgiens en Egypte</NuxtLink></li>
                                         <li class="main-has-child-mobile" :class="{'sub_is_clicked' : DropDown == 1}"><a class="js-pointer-large" href="#">Dentisterie</a><span  @click="DropDown = 1" class="drop_down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z" fill="rgba(255,255,255,1)"/></svg></span>
                                             <ul class="sub-menu-mob">
                                                 <li @click="CloseMenu"><NuxtLink to="/implant-dentaire">Implant dentaire</NuxtLink></li>
@@ -127,8 +127,8 @@
                             <ul class="main_nav">
                                 <li><NuxtLink to="/">Accueil</NuxtLink></li>
                                 <li><NuxtLink to="/cliniques">Les cliniques</NuxtLink></li>
-                                <li><NuxtLink to="/">Les chirurgiens</NuxtLink></li>
-                                <li class="main-has-child"><a class="js-pointer-large" href="#">Intervention</a>
+                                <li><NuxtLink to="/chirurgiens-esthetiques">Les chirurgiens</NuxtLink></li>
+                                <li class="main-has-child"><a class="js-pointer-large" href="#">Interventions</a>
                                     <ul class="sub-menu-1">
                                         <li><NuxtLink to="#">Dentisterie</NuxtLink>
                                             <ul class="sub-menu-2">
@@ -197,7 +197,6 @@
                                                 <li><NuxtLink to="/penoplastie">Pénoplastie</NuxtLink></li>
                                             </ul>
                                         </li>
-                                        <li><NuxtLink to="/chirurgiens-esthetiques">Chirurgiens esthétiques</NuxtLink></li>
                                     </ul>
                                 </li>
                                 <li><NuxtLink to="/pourquoi-egypte">Pourquoi choisir l’Egypte ?</NuxtLink></li>

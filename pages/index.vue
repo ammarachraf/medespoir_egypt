@@ -21,12 +21,65 @@
         <h2 class="yellow mb-3 text-center">Nos Spécialités</h2>
         <p>Notre objectif est d'offrir à nos patients des alternatives aux techniques standards lorsque cela est possible, et de proposer des combinaisons de traitements personnalisés.<br>Vos objectifs esthétiques sont uniques et nous sommes là pour vous aider à être au mieux de votre forme.<br>Nous pratiquons un large éventail d’opérations chirurgicales et non chirurgicales, notamment :</p>
         <div class="carousel_mobile mt-5">
-            <h3 class="color-blue">Chirurgie du visage</h3>
-            <p class="color-blue">Votre visage est une facette essentielle qui reflète votre personnalité et de votre caractère. C'est ce que les gens dans votre entourage remarquent en premier.<br>Certaines personnes présentent des traits peu flatteurs, comme un nez tordu ou des paupières tombantes. Avec le temps, un visage vieillit et s'affaisse.<br>La bonne nouvelle, c'est que nous proposons toute une gamme de chirurgies pour répondre à presque tout ce dont vous pourriez avoir besoin. Nous pouvons vous aider à révéler la beauté de votre visage, accessible par une ou quelques interventions mineures allant du lifting du visage ou du cou à la rhinoplastie et à l'augmentation des pommettes, et bien d'autres options.</p>
-            <h3 class="color-blue">Chirurgie des seins</h3>
-            <p class="color-blue">Il existe de nombreuses raisons susceptibles de vous rendre insatisfaite de l'apparence de vos seins, et cela peut avoir un impact plus ou moins important sur de nombreux aspects de votre vie.<br>Les seins définissent la forme du haut du corps et déterminent le type de vêtements qui vous vont le mieux. Obtenir des seins, qui vous rendent plus séduisante ou plus galbée, est souvent un tournant dans votre vie.<br>Si vous éprouvez le besoin de refaire vos seins en raison de l'âge, d'une grossesse, de la génétique ou d'une maladie, notre gamme complète d’interventions esthétiques des seins peut vous permettre d'obtenir une amélioration étonnante de l’apparence de votre poitrine.<br> La chirurgie esthétique des seins en Egypte est souvent la meilleure solution pour vous faire retrouver votre confiance en vous, vous sentir plus belle et plus féminine.<br>Nous avons réalisé des milliers d'opérations chirurgicales réussies, allant du lifting mammaire à la réduction des seins en passant par l'augmentation mammaire et la gynécomastie (correction de la croissance des seins chez l'homme).</p>
-            <h3 class="color-blue">Chirurgie de la silhouette</h3>
-            <p class="color-blue">Quel que soit le défaut que présente votre silhouette, Medespoir Egypte vous aidera à y remédier efficacement :</p>
+            <client-only>
+              <carousel :margin=10 :center=true :loop=true :responsive="{0:{items:1,nav:true,dots:false},769:{items:2,nav:true,dots:false},992:{items:3,nav:true,dots:false}}">
+                <div class="items">
+                  <div class="border-before"></div>
+                  <div class="border-r-b">
+                    <div class="overflow-slider"></div>
+                    <img src="@/assets/img/visage-slider.png" alt="">
+                    <div class="flex-item-slider">
+                      <h3 class="title-speciality">Esthétique de Visage</h3>
+                      <ul class="liste-interv">
+                        <li><NuxtLink to="/lifting-visage">Lifting Visage</NuxtLink></li>
+                        <li><NuxtLink to="/fils-tenseurs">Fils tenseurs</NuxtLink></li>
+                        <li><NuxtLink to="/lifting-endoscopique">Lifting endoscopique</NuxtLink></li>
+                        <li><NuxtLink to="/rhinoplastie">Rhinoplastie</NuxtLink></li>
+                        <li><NuxtLink to="/blepharoplastie">Blépharoplastie</NuxtLink></li>
+                        <li><NuxtLink to="/otoplastie">Otoplastie</NuxtLink></li>
+                        <li><NuxtLink to="/genioplastie">Génioplastie</NuxtLink></li>
+                        <li><NuxtLink to="/lipofilling-visage">Lipofilling visage et cou</NuxtLink></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="items">
+                  <div class="border-before"></div>
+                  <div class="border-r-b">
+                    <div class="overflow-slider"></div>
+                    <img src="@/assets/img/seins-slider.png" alt="">
+                    <div class="flex-item-slider">
+                      <h3 class="title-speciality">Esthétique des seins</h3>
+                      <ul class="liste-interv">
+                        <li><NuxtLink to="/augmentation-mammaire">Augmentation mammaire par implants</NuxtLink></li>
+                        <li><NuxtLink to="/lipofilling-mammaire">Lipofilling mammaire</NuxtLink></li>
+                        <li><NuxtLink to="/reduction-mammaire">Réduction mammaire</NuxtLink></li>
+                        <li><NuxtLink to="/lifting-mammaire">Lifting mammaire</NuxtLink></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="items">
+                  <div class="border-before"></div>
+                  <div class="border-r-b">
+                    <div class="overflow-slider"></div>
+                    <img src="@/assets/img/slihouette-slider.png" alt="">
+                    <div class="flex-item-slider">
+                      <h3 class="title-speciality">Esthétique du corps</h3>
+                      <ul class="liste-interv">
+                        <li><NuxtLink to="/bodylift">Bodylift</NuxtLink></li>
+                        <li><NuxtLink to="/liposuccion">Liposuccion</NuxtLink></li>
+                        <li><NuxtLink to="/liposuccion-vaser">Liposuccion Vaser</NuxtLink></li>
+                        <li><NuxtLink to="/abdominoplastie">Abdominoplastie</NuxtLink></li>
+                        <li><NuxtLink to="/augmentation-fesses">Augmentation fesses par prothèses</NuxtLink></li>
+                        <li><NuxtLink to="/lipofilling-fesses">Lipofilling fesses</NuxtLink></li>
+                        <li><NuxtLink to="/lifting-bresilien">Lifting brésilien</NuxtLink></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </carousel>
+            </client-only>
         </div>
       </div>
     </section>

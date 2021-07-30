@@ -29,24 +29,22 @@
         <section class="container mb-5">
             <div class="row">
                 <div class="col-md-7 col-12">
-                    <h2 class="yellow mt-5">C’est quoi le Lipofilling visage en Egypte ?</h2>
-                    <p>Le lipofilling visage en Egypte, appelé aussi Lipostructure, est une procédure chirurgicale dont le concept tourne autour la restauration de la plénitude du visage qui commence à démontrer des signes d’amaigrissement ou de vieillissement.<br>Le principe de cette intervention est simple. Il s’agit de l’injection de la graisse, soustraite à travers une liposuccion du patient lui-même, dans les zones cibles du visage. L’objectif de cette opération est de remplir de redonner forme aux creux et rides profondes ainsi que les sillons nasogéniens, ou encore les dépressions naturelles qui apparaissent sur le visage. Elle sert aussi à accroître le volume des pommettes, trempes, joues et les cernes qui ont un aspect creux.<br>Vu que c’est une opération qui nécessite l’existence de graisse chez le patient, l faut savoir que même les personnes qui sont mince en possède. La graisse est un élément important dans le bon fonctionnement du métabolisme.<br>Important de savoir que la graisse doit être soustraite du patient lui-même pour faciliter la stabilisation postopératoire et éviter les complications. Car en effet, le corps peut rejeter les corps étrangers s'il les détecte, et c’est pour cela que les cellules graisseuses utilisées doivent être celles du patient, pour une intégration naturelle.</p>
+                    <h2 class="yellow mt-5">Méthodes de traitement d’Orthodontie en Egypte</h2>
+                    <p>Aujourd'hui, les orthodontistes en Egypte utilisent activement quatre méthodes de traitement : fonctionnelle, médicale, médico-chirurgicale et chirurgicale. Les techniques diffèrent selon qu’on a un patient jeune ou un adulte.</p>
+                    <ul class="liste-page color-blue">
+                        <li>Les appareils multi-attaches ou « bagues »</li>
+                        <li>Les appareils auto-ligaturants</li>
+                        <li>Les gouttières invisalign</li>
+                        <li>Les appareils fonctionnels</li>
+                        <li>Les appareils de contention</li>
+                        <li>Les mainteneurs d’espace</li>
+                    </ul>
                 </div>
                 <div class="col-md-5 col-12"><img src="@/assets/img/img2-ortho.jpg" alt="Medespoir egypte"></div>
             </div>
         </section>
         <section class="bg-blue pt-5 pb-5">
             <div class="container">
-                <h2 class="yellow">Méthodes de traitement d’Orthodontie en Egypte</h2>
-                <p>Aujourd'hui, les orthodontistes en Egypte utilisent activement quatre méthodes de traitement : fonctionnelle, médicale, médico-chirurgicale et chirurgicale. Les techniques diffèrent selon qu’on a un patient jeune ou un adulte.</p>
-                <ul class="liste-page color-white">
-                    <li>Les appareils multi-attaches ou « bagues »</li>
-                    <li>Les appareils auto-ligaturants</li>
-                    <li>Les gouttières invisalign</li>
-                    <li>Les appareils fonctionnels</li>
-                    <li>Les appareils de contention</li>
-                    <li>Les mainteneurs d’espace</li>
-                </ul>
                 <h3 class="color-white mt-3">L’orthodontie pour enfants</h3>
                 <p>L'orthodontie pédiatrique consiste à corriger l'occlusion et comprend l'alignement des dents. Quant aux déformations causées par les maladies parodontales, la perte de dents ou les changements liés à l'âge, ces problèmes sont généralement résolus par l'orthodontie pour adultes.<br>La médecine orthodontique a aujourd'hui plusieurs vecteurs principaux de développement, à savoir :<br><strong>Un diagnostic préventif.</strong> Pertinent chez les enfants et les adolescents. Pour identifier les patients potentiels, des examens sont effectués dans les jardins d'enfants, les écoles et autres institutions.<br><strong>Un traitement spécialisé.</strong> Également utilisé pour la correction de l'occlusion, la correction des irrégularités des dents ou des dents séparées chez les enfants et les adolescents.<br>Traitement d’orthodontie des adolescents et des enfants est développé dans le but de corriger l'occlusion et toutes les fonctions du système dentoalvéolaire.</p>
                 <h3 class="color-white">L'orthodontie pour adultes</h3>

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/devis", {data:[{}],fetch:{},mutations:void 0});

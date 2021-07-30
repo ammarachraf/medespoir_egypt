@@ -47,23 +47,16 @@
                 <p>Un chirurgien plasticien s'est engagé de longues années à étudier et à se former pour obtenir son expertise spécialisée. Ils ont reçu un diplôme en médecine, ont complété au moins 5 ans d'études et de formation en chirurgie, ont réussi leur formation et ont été jugés qualifiés et certifiés pour pratiquer la chirurgie esthétique et reconstructive.<br>Les chirurgiens plasticiens pratiquent la chirurgie sur tout le corps, de la tête aux pieds, ce qui leur permet de mieux comprendre l'ensemble du corps. Cela leur fournit également une vaste expérience d'un large éventail de techniques chirurgicales requises pour des problèmes complexes.</p>
                 <h3 class="color-white">Consultations</h3>
                 <p>Quelle que soit leur spécialité, tous les chirurgiens plasticiens consultent leurs patients. Ils doivent s’entretenir avec le patient pour déterminer le résultat souhaité de la chirurgie et pour expliquer les risques et les effets secondaires possibles des interventions chirurgicales.</p>
-                <h3 class="color-white">Interventions non chirurgicales</h3>
-                <p>Les chirurgiens plasticiens spécialisés dans les procédures cosmétiques appliquent souvent des techniques non chirurgicales sur la peau ou améliorent l'apparence extérieure. L'injection de Botox est une surspécialité courante pour les chirurgiens esthétiques, tout comme le peeling facial chimique.</p>
-                <h3 class="color-white">Soins postopératoires</h3>
-                <p>Les chirurgiens plasticiens fournissent également des soins de suivi au patient après la chirurgie pour s'assurer que les infections sont évitées ou traitées si nécessaire et que la chirurgie a atteint ses objectifs.<br>Dans certains cas, ils peuvent orienter les patients vers des physiothérapeutes ou d'autres spécialistes pour achever leur rétablissement. Les chirurgiens effectuent également certaines tâches administratives, notamment la mise à jour des dossiers médicaux des patients avec les résultats des tests et les notes d'examen.</p>
             </div>
         </section>
         <section class="container">
             <div class="row">
                 <div class="col-md-5 col-12"><img src="@/assets/img/img3-esthetique.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12">
-                    <h2 class="yellow mt-5">Quels sont les meilleurs chirurgiens plasticiens en Egypte ?</h2>
-                    <p class="color-blue">Voici quelques-uns des meilleurs chirurgiens plasticiens Egypte :</p>
-                    <ul class="liste-page color-blue">
-                        <li>Dr Fathy Khudair : chirurgien plasticien spécialisé en rhinoplastie. Il est le doyen de la faculté de médecine, Kasr Al-Aini, Université du Caire, Égypte, et consultant en chirurgie esthétique dans plusieurs hôpitaux. Il est membre de la Société Internationale de Chirurgie Plastique et Reconstructrice, et membre de la Société Européenne de Chirurgie Plastique et Laser.</li>
-                        <li>Dr Maher Saad : il est membre de la Société égyptienne de chirurgie laparoscopique, membre de la Société européenne de chirurgie laparoscopique, membre de la Société égyptienne de chirurgie bariatrique.</li>
-                        <li>Dr Mohamed Abdel-Wahab est spécialiste en dermatologie, chirurgie esthétique et traitement des effets des chirurgies post-plastiques. Il a obtenu de nombreux diplômes tels qu'un diplôme en dermatologie et un diplôme en plastique et chirurgie reconstructrice. Il est membre de la Fédération internationale de chirurgie bariatrique.</li>
-                    </ul>
+                    <h3 class="yellow mt-5">Interventions non chirurgicales</h3>
+                    <p class="color-blue">Les chirurgiens plasticiens spécialisés dans les procédures cosmétiques appliquent souvent des techniques non chirurgicales sur la peau ou améliorent l'apparence extérieure. L'injection de Botox est une surspécialité courante pour les chirurgiens esthétiques, tout comme le peeling facial chimique.</p>
+                    <h3 class="yellow mt-5">Soins postopératoires</h3>
+                    <p class="color-blue">Les chirurgiens plasticiens fournissent également des soins de suivi au patient après la chirurgie pour s'assurer que les infections sont évitées ou traitées si nécessaire et que la chirurgie a atteint ses objectifs.<br>Dans certains cas, ils peuvent orienter les patients vers des physiothérapeutes ou d'autres spécialistes pour achever leur rétablissement. Les chirurgiens effectuent également certaines tâches administratives, notamment la mise à jour des dossiers médicaux des patients avec les résultats des tests et les notes d'examen.</p>
                 </div>
             </div>
         </section>
