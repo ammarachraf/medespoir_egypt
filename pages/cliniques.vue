@@ -16,7 +16,7 @@
             <div class="row">
                 <div class="col-md-5 col-12"><img src="@/assets/img/img1-clinique.jpg" alt="Medespoir maroc"></div>
                 <div class="col-md-7 col-12 mt-5">
-                    <p class="color-blue">Les cliniques en Egypte proposent une chirurgie esthétique hautement spécialisée. En combinant la dernière technologie de précision avec le meilleur savoir-faire chirurgical, les patients bénéficient des meilleurs soins pré et postopératoires tout en profitant d’une expérience de première classe.<br>Nos chirurgiens plasticiens travaillent en étroite collaboration avec les patients pour fournir des solutions sur mesure en chirurgie esthétique et reconstructive. Que l'objectif soit de rajeunir et d'améliorer ou de réparer et de restaurer la fonction et l'apparence, l’objectif est toujours de fournir des soins exemplaires et des solutions exceptionnellement gratifiantes.</p>
+                    <p class="color-blue">Les cliniques en Egypte proposent une chirurgie esthétique hautement spécialisée. En combinant la dernière technologie de précision avec le meilleur savoir-faire chirurgical, les patients bénéficient des meilleurs soins pré et postopératoires tout en profitant d’une expérience de première classe.<br><br>Nos chirurgiens plasticiens travaillent en étroite collaboration avec les patients pour fournir des solutions sur-mesure en chirurgie esthétique et reconstructive.</p>
                 </div>
             </div>
         </section>
@@ -29,13 +29,13 @@
         <section class="bg-blue pt-5 pb-5">
             <div class="container">
                 <h2 class="yellow mb-4">Pourquoi choisir nos cliniques de chirurgie esthétique en Egypte ?</h2>
-                <p>Les cliniques  Egypte proposent les avantages suivants : </p>
+                <p>Les cliniques en Egypte proposent les avantages suivants : </p>
                 <h3 class="color-white">Art de la chirurgie esthétique</h3>
-                <p>Chez Medespoir Egypte, nous intégrons l'art dans la profession et formons notre équipe dès le début pour percevoir la chirurgie esthétique comme un art et pas seulement comme un traitement. Chaque opération de chirurgie esthétique que nous effectuons est menée avec soin avec un œil d'artiste pour le détail et la compétence qui complète la vision artistique du chirurgien.</p>
+                <p>Chez Medespoir Egypte, nous intégrons l'art dans la profession et formons notre équipe dès le début pour percevoir la chirurgie esthétique comme un art et pas seulement comme un traitement. Chaque opération de chirurgie esthétique que nous effectuons est menée avec soin et avec un œil d'artiste pour le détail et la compétence qui complète la vision artistique du chirurgien.</p>
                 <h3 class="color-white">Résultats naturels</h3>
                 <p>Notre approche chirurgicale est basée sur l’idée de l'esthétique naturelle. Le mode de vie égyptien avec son appréciation de la beauté, de la simplicité, de la fonctionnalité et d'un mode de vie sain influence tout ce que nous faisons. Dans nos cliniques de chirurgie esthétique, nos chirurgiens plasticiens travaillent avec précision afin de fournir un résultat d'une apparence naturelle. Nos soins respectent l'équilibre et les proportions du visage et du corps, et produisent des résultats qui restaurent et améliorent, mais qui ne sont jamais exagérés.</p>
                 <h3 class="color-white">Technologies de pointe</h3>
-                <p>Les cliniques esthétiques en Egypte sont équipées de toutes les technologies de pointe nécessaires au diagnostic, au traitement et à la chirurgie. Nos salles d'opération sont instillées avec les derniers appareils pour assurer votre bien-être tout au long de l’intervention.<br>Nous avons une vaste expérience dans les techniques de haute précision et microchirurgicales. Ces méthodes informent notre travail à tous les niveaux, nous permettant d'exécuter des procédures qui seraient impossibles autrement et nous apportent un plus grand raffinement des résultats. De plus, nous travaillons avec notre propre gamme d'outils conçus sur mesure et de technologies de pointe.</p>
+                <p>Les cliniques esthétiques en Egypte sont équipées de toutes les technologies de pointe nécessaires au diagnostic, au traitement et à la chirurgie. Nos salles d'opération sont instillées avec les derniers appareils pour assurer votre bien-être tout au long de l’intervention.<br>Nous avons une vaste expérience dans les techniques de haute précision et microchirurgicales. Ces méthodes informent notre travail à tous les niveaux, nous permettant d'exécuter des procédures qui seraient impossibles autrement et nous apportent un plus grand raffinement des résultats. De plus, nous travaillons avec notre propre gamme d'outils conçus sur-mesure et de technologies de pointe.</p>
                 <div class="btn_devis mt-4 text-center"><NuxtLink to="#">Devis express</NuxtLink></div>
             </div>
         </section>
